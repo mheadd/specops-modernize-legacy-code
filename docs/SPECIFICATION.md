@@ -104,6 +104,9 @@ The School Account Management System is a financial management tool that allows 
 
 ---
 
+### Requirement: Maximum Credit Limit
+The system SHALL reject credit operations that would result in a balance exceeding $999,999.99.
+
 ## Operations
 
 ### Operation 1: View Balance
